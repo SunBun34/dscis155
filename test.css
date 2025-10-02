@@ -6,7 +6,7 @@ body {
 p { 
   font: normal 30px/2 "Helvetica", Arial, sans-serif; 
   color: #464646; 
-      background-color: rgba(0, 128, 255, 1);
+  background-color: rgba(0, 128, 255, 1);
 }
 .id { 
   margin-bottom 15px; 
