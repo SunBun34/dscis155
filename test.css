@@ -1,5 +1,10 @@
 
-      
+ .conatainer {
+       width:80%;         /* page takes up to 80 percent of the browser width*/
+       max-width: 800px;    /* doesnt let it get to wide*/
+       margin: 0 auto;     /* centers horizontally*/
+       text-align: center; /*  center text and in line elements like the imiages*/
+ }     
 body { 
   text-align: center; 
 }
