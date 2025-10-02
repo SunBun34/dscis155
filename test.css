@@ -1,11 +1,11 @@
 
       
 body { 
-  color: #FFFF;
+  color: #FFFFFF;
   text-align: center; 
 }
 p { 
-  font: normal 18px/1.6 "Helvetica", Arial, sans-serif; 
+  font: normal 20px/1.6 "Helvetica", Arial, sans-serif; 
   color: #464646; 
       background-color: rgba(0, 128, 255, 0.5);
 }
