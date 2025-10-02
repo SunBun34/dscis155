@@ -14,13 +14,30 @@ body {
  background-color: #ffe6f2; /*page back ground*/
  color: #ff69b4;   /* default text color*/
  text-align: center; 
+
+ h1 {
   
+ }
+ h2{
+  
+ }
 }
+
 p { 
   font: normal 30px/1.5 "Helvetica", Arial, sans-serif; 
   color: #464646; 
   background-color: rgba(0, 128, 255, 1);
 }
+
+li{
+}
+
+img {
+}
+
+footer {
+}
+
 .id { 
   margin-bottom: 15px; 
 }
