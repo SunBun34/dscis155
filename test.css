@@ -7,7 +7,7 @@ body {
 p { 
   font: normal 18px/1.6 "Helvetica", Arial, sans-serif; 
   color: #464646; 
-      background-color: rgba(0, 128, 255, 0.7);
+      background-color: rgba(0, 128, 255, 0.5);
 }
 .id { 
   margin-bottom 15px; 
