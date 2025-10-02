@@ -1,13 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<!-- Homepage for kittyhandley.com-->
+    <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+        <meta description="Everything you ever wanted to know about my cat named Kitty.">
+        <title>My Cat is Named Kitty</title>
 </head>
-<body>
-    <h1>
-        Donna Stark CIS 155 Module 2 Website Assignment
-    </h1>
-</body>
+    <body>
+        <header>
+    <h1>Kitty is my cat</h1>
+        </header>
+        <main>
+        <h2>Facts about Kitty</h2>
+        <ul>
+            <li>She was a stray kitten in San Antonio.</li>
+            <li>She's about <em>13</em> years old.</li>
+            <li>She's brown, black, and white and has long fur.</li>
+            <li> Her name is very <strong>creative</strong> </li>
+        </ul>
+        </main>
+       <footer>&copy; Copyright 2023 Lindsey Handley</footer>
+        </body>
 </html>
