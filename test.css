@@ -1,5 +1,5 @@
 
- .conatainer {
+ .container {
        width: 80%;         /* page takes up to 80 percent of the browser width*/
        max-width: 800px;    /* doesnt let it get to wide*/
        margin: 0 auto;     /* centers horizontally*/
@@ -16,9 +16,9 @@ body {
  text-align: center; 
 }
  h1 {
-  color: #ff1493
+  color: #ff1493;
   font-size:2.5em;
-  margin-bottom: 10ox;
+  margin-bottom: 10px;
   
  }
  h2{
@@ -49,9 +49,16 @@ img {
  margin: 10px;
 }
 
+.container img{
+ width:200px;
+ height:auto;
+ border:2px solid #ff69b4;
+ border-radius: 15px;
+}
+
 footer {
  margin-top: 20px;
- color: #ff1493
+ color: #ff1493;
  font-size: 14px;
 }
 
