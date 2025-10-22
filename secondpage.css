@@ -1,0 +1,33 @@
+body {
+    background-color: Black;
+    color: Lime;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0px;
+    padding: 120px;
+    padding-top: 5px;   
+}
+h1 {
+    color: Orange;
+    text-align: left;
+    margin-left: 50px;
+    padding: 30px; 
+}
+p {
+    font-size: 20px;
+    margin-left: 50px;
+    padding: 20px 80px 5px 80px;
+    background-color: purple;
+    border: 2px solid Lime;
+}   
+li {
+    font-size: 18px;
+    margin-left: 70px;
+    padding: 8px;
+}
+img {
+    border:8px solid pink;
+    margin-left: 250px;
+    margin-top: -20px;
+    width: 300px;
+    height: 180px;    
+}
