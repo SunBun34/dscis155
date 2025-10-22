@@ -69,24 +69,3 @@ footer {
   margin-bottom: 15px; 
 }
 
-body {
-                  font-family: 'Fredoka One', sans-serif;
-                 background-color: #fff0f5;
-                 color: #000000;
-          }
-            h1 {
-                    font-size:3em;
-                    color: #ff1493;
-            }
-        img {
-                 width: 400px;
-                 height: auto;
-                 border: 2px solid black;
-                 border-radius: 10px;
-         }
-         li {
-                 color: solid black;
-                 font-size: 18px;
-                 font-family: 'Fredoka One', sans-serif;
-                  margin-bottom: 10px;
-         }   
