@@ -8,3 +8,6 @@
 ![IMG_8773](https://github.com/user-attachments/assets/1643aefe-a3eb-415b-9ac8-956cbd6f0549)
 ![IMG_5650](https://github.com/user-attachments/assets/03c2f317-27bb-4824-aa82-d881c847014a)
 ![IMG_8523](https://github.com/user-attachments/assets/6f7a32fc-7ae1-425c-9b49-f36548e3cbf4)
+
+<!-- second spook page chat gbt picture>
+![cute spooky picture](https://github.com/user-attachments/assets/6f7a32fc-7ae1-425c-9b49-f36548e3cbf4)
