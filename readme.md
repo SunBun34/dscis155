@@ -11,4 +11,4 @@
 
 <!-- cute spook from chat-->
 
-![cute spooky picture](https://github.com/user-attachments/assets/6f7a32fc-7ae1-425c-9b49-f36548e3cbf4)
+
