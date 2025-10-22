@@ -9,4 +9,4 @@
 ![IMG_5650](https://github.com/user-attachments/assets/03c2f317-27bb-4824-aa82-d881c847014a)
 ![IMG_8523](https://github.com/user-attachments/assets/6f7a32fc-7ae1-425c-9b49-f36548e3cbf4)
 
-<img width="1024" height="1024" alt="cutespook" src="https://github.com/user-attachments/assets/b46fde96-80e0-4df3-a1e1-35060c3c7cee" />
+![cute spooky picture](https://github.com/user-attachments/assets/6f7a32fc-7ae1-425c-9b49-f36548e3cbf4)
