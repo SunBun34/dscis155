@@ -8,7 +8,7 @@ body {
     padding: 120px;
     padding-top: 5px;   
     background: linear-gradient(
-        45deg, red 50%, blue 50%, yellow 50%, green 50%
+        45deg, red 50%, red 0%, blue 50%, blue 0% yellow 50%, green 50%
         
     );   
 }
