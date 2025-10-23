@@ -39,6 +39,8 @@ img {
 }
 
 aside {
+    color: white;
+    font-size: 18px;
     background-color: 120px dotted lime;
     margin: 50px;
     padding: 20px;
