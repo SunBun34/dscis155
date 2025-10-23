@@ -8,12 +8,8 @@ body {
     padding: 120px;
     padding-top: 5px;   
     background: linear-gradient(
-        45deg,
-        #ff00ff,
-        #0f00ff,
-        #ffff00,
-        #00ffff,
-        #ff0000,
+        45deg, red 50%, blue 50%, yellow 50%, green 50%
+        
     );   
 }
 h1 {
