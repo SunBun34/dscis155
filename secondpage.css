@@ -37,3 +37,7 @@ img {
     width: 300px;
     height: 180px;    
 }
+
+aside {
+    backgreound-color: dotted lime;
+}
