@@ -62,8 +62,7 @@ div {
     padding: 15px;
     border: 5px dotted rgb(5, 1, 1);
 }
-#nav_menu {     
-    
+#nav_menu {
     background-color: #d46778;
     padding: 10px;
     margin-bottom: 20px;
@@ -77,8 +76,8 @@ div {
     display: flex;
     justify-content: center;
     gap: 20px;
-    border-top: black 2px wave;
-    border-bottom: black 2px wave;
+    border-top: black 2px solid;
+    border-bottom: black 2px solid;
 }
 #nav_menu ul li {
     display: inline;

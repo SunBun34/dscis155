@@ -12,8 +12,8 @@
     display: flex;
     justify-content: center;
     gap: 20px;
-    border-top: black 2px wave;
-    border-bottom: black 2px wave;
+    border-top: black 2px solid;
+    border-bottom: black 2px solid;
 }
 #nav_menu ul li {
     display: inline;
