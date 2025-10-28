@@ -1,12 +1,5 @@
 
- .container {
-       width: 80%;         /* page takes up to 80 percent of the browser width*/
-       max-width: 1200px;    /* doesnt let it get to wide*/
-       margin: 0 auto;     /* centers horizontally*/
-       text-align: center; /*  center text and in line elements like the imiages*/
-        padding: 20px; 
-        background-color: #f7cdda; 
-       border-radius: 15px; 
+ 
  }
 
 body { 
@@ -30,7 +23,15 @@ body {
   margin-bottom: 15px;
  }
 
-
+.container {
+       width: 80%;         /* page takes up to 80 percent of the browser width*/
+       max-width: 1200px;    /* doesnt let it get to wide*/
+       margin: 0 auto;     /* centers horizontally*/
+       text-align: center; /*  center text and in line elements like the imiages*/
+        padding: 20px; 
+        background-color: #f7cdda; 
+       border-radius: 15px; 
+}
 p { 
   font-family: 'Fredoka One', sans-serif; 
   color: #5e374b; 
@@ -52,7 +53,7 @@ img {
  margin: 10px;
 }
 
-.container img{
+.container img {
  width:200px;
  height:auto;
  border:2px solid #8e3f67;
