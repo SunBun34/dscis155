@@ -12,7 +12,7 @@
 body { 
  font-family: 'Fredoka One', sans-serif;
  background-color: #b8889f; /*page back ground*/
- color: #ff69b4;   /* default text color*/
+ color: #c287a5;   /* default text color*/
  text-align: center; 
 }
  h1 {
@@ -22,7 +22,7 @@ body {
  }
 
 #main-title {
- text-shadow: 2px 2px #ffb6c1;
+ text-shadow: 2px 2px #f18595;
 }
  h2{
   color: #a24373;
