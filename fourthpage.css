@@ -1,0 +1,16 @@
+ #nav_menu ul {
+    list-style-type: none;
+    padding: 1em 0;
+    text-align: center;
+    border-top:2px solid lightpink;
+    border-bottom:2px solid lightpink;
+ }
+ #nav_menu ul li a {
+    display: inline;
+    padding: 0 1.5em;}
+#nav_menu ul li a {
+    text-decoration: none;
+    color: #bd5c90;
+    font-weight: bold;
+    font-size: 18px;
+}
