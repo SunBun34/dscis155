@@ -32,7 +32,7 @@ body {
 
 
 p { 
-  font: normal 30px/1.5 "Helvetica", Arial, sans-serif; 
+  font-family: 'Fredoka One', sans-serif; 
   color: #5e374b; 
   background-color: rgb(173, 98, 139);
 }
@@ -95,6 +95,7 @@ footer {
     color: #000000;
     font-weight: bold;
     font-size: 18px;
+    font-family: 'Fredoka One', sans-serif;
 }
 #nav_menu ul li a:hover {
     color: #914068;
