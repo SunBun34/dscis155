@@ -1,7 +1,7 @@
 
  .container {
        width: 80%;         /* page takes up to 80 percent of the browser width*/
-       max-width: 150px;    /* doesnt let it get to wide*/
+       max-width: 1200px;    /* doesnt let it get to wide*/
        margin: 0 auto;     /* centers horizontally*/
        text-align: center; /*  center text and in line elements like the imiages*/
         padding: 20px; 
@@ -70,7 +70,7 @@ footer {
 }
 
 #nav_menu {
-    background-color: #d0717f;
+    background-color: #f198a5;
     padding: 10px;
     margin-bottom: 20px;
     border-radius: 10px;
