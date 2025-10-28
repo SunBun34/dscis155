@@ -69,7 +69,8 @@ footer {
   margin-bottom: 15px; 
 }
 
-#nav_menu {
+#nav_menu {     
+    
     background-color: #d46778;
     padding: 10px;
     margin-bottom: 20px;
@@ -98,4 +99,11 @@ footer {
 }
 #nav_menu ul li a:hover {
     color: #ff69b4;
+}
+section {
+    margin: 30px;
+    padding: 20px;
+    border: 3px solid #ff69b4;
+    border-radius: 10px;
+    background-color: #fff0f5;
 }

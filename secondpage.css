@@ -62,7 +62,8 @@ div {
     padding: 15px;
     border: 5px dotted rgb(5, 1, 1);
 }
-#nav_menu {
+#nav_menu {     
+    
     background-color: #d46778;
     padding: 10px;
     margin-bottom: 20px;
