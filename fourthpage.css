@@ -1,5 +1,5 @@
 #nav_menu {
-    background-color: #d46778;
+    background-color: #d46798;
     padding: 10px;
     margin-bottom: 20px;
     border-radius: 10px;
@@ -26,5 +26,5 @@
     font-size: 18px;
 }
 #nav_menu ul li a:hover {
-    color: #ff69b4;
+    color: #6e0a3c;
 }
