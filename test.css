@@ -55,7 +55,7 @@ img {
 .container img{
  width:200px;
  height:auto;
- border:2px solid #8f2c5e;
+ border:2px solid #8e3f67;
  border-radius: 15px;
 }
 
@@ -70,7 +70,7 @@ footer {
 }
 
 #nav_menu {
-    background-color: #d46778;
+    background-color: #d0717f;
     padding: 10px;
     margin-bottom: 20px;
     border-radius: 10px;
@@ -97,7 +97,7 @@ footer {
     font-size: 18px;
 }
 #nav_menu ul li a:hover {
-    color: #ff69b4;
+    color: #914068;
 }
 
 
