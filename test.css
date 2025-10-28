@@ -5,13 +5,13 @@
        margin: 0 auto;     /* centers horizontally*/
        text-align: center; /*  center text and in line elements like the imiages*/
         padding: 20px; 
-        background-color: #fabbd0; 
+        background-color: #c18699; 
        border-radius: 15px; 
  }
 
 body { 
  font-family: 'Fredoka One', sans-serif;
- background-color: #ffe6f2; /*page back ground*/
+ background-color: #b8889f; /*page back ground*/
  color: #ff69b4;   /* default text color*/
  text-align: center; 
 }
@@ -47,7 +47,7 @@ li{
 img {
  width: 200px;
  height: auto;
- border: 2px solid black;
+ border: 2px solid rgb(115, 66, 90);
  border-radius: 10px;
  margin: 10px;
 }
@@ -55,7 +55,7 @@ img {
 .container img{
  width:200px;
  height:auto;
- border:2px solid #ff69b4;
+ border:2px solid #8f2c5e;
  border-radius: 15px;
 }
 
