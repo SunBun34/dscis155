@@ -16,7 +16,7 @@ body {
  text-align: center; 
 }
  h1 {
-  color: #ff1493;
+  color: #000000;
   font-size:2.5em;
   margin-bottom: 10px;
  }
@@ -25,7 +25,7 @@ body {
  text-shadow: 2px 2px #ffb6c1;
 }
  h2{
-  color: #ff69b4;
+  color: #a24373;
   font-size: 1.8em;
   margin-bottom: 15px;
  }
@@ -34,7 +34,7 @@ body {
 p { 
   font: normal 30px/1.5 "Helvetica", Arial, sans-serif; 
   color: #464646; 
-  background-color: rgba(0, 128, 255, 1);
+  background-color: rgb(0, 0, 0);
 }
 
 li{
@@ -61,7 +61,7 @@ img {
 
 footer {
  margin-top: 20px;
- color: #ff1493;
+ color: #db95ba;
  font-size: 14px;
 }
 
