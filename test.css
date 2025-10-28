@@ -4,9 +4,9 @@
        max-width: 800px;    /* doesnt let it get to wide*/
        margin: 0 auto;     /* centers horizontally*/
        text-align: center; /*  center text and in line elements like the imiages*/
-       /* padding: 20px; */
-       /* background-color: #fff0f5; */
-       /* border-radius: 15px; */
+        padding: 20px; 
+        background-color: #fabbd0; 
+       border-radius: 15px; 
  }
 
 body { 
