@@ -100,5 +100,10 @@ footer {
 #nav_menu ul li a:hover {
     color: #914068;
 }
+.no-dots {
+  list-style-type: none; /* removes the bullets */
+  padding: 0;            /* removes left indent */
+  margin: 0;             /* optional — cleans up spacing */
+}
 
 
