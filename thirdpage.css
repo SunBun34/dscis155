@@ -117,3 +117,9 @@ li {
   max-width: 100%; /* image will never be wider than its container */
   height: auto;    /* keeps aspect ratio */
 }
+.iframe-container {
+    position: relative;
+    width: 100%;
+    max-width: 560px; /* Set the maximum width of the iframe */
+    margin: auto; /* Center the iframe */
+}
