@@ -64,12 +64,14 @@ footer {
 .id { 
   margin-bottom: 15px; 
 }
+
 body { 
  font-family: 'Fredoka One', sans-serif;
  background-color: #b8889f; /*page back ground*/
  color: #c287a5;   /* default text color*/
  text-align: auto; 
 }
+
  h1 {
   color: #af73b3;
   font-size:2.5em;
@@ -99,4 +101,11 @@ li{
  margin-bottom: 10px;
  color: #a64ca6;
  line-height: 1.5;
+}
+
+.column {
+    flex: 1;
+    background-color: #f7cdda;
+    padding: 15px;
+    border: 5px dotted rgb(5, 1, 1);
 }
