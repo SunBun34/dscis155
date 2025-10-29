@@ -62,3 +62,33 @@ footer {
 .id { 
   margin-bottom: 15px; 
 }
+body { 
+ font-family: 'Fredoka One', sans-serif;
+ background-color: #b8889f; /*page back ground*/
+ color: #c287a5;   /* default text color*/
+ text-align: auto; 
+}
+ h1 {
+  color: #af73b3;
+  font-size:2.5em;
+  margin-bottom: 10px;
+ }
+
+#main-title {
+ text-shadow: 2px 2px #f18595;
+}
+ h2{
+  color: #a24373;
+  font-size: 1.8em;
+  margin-bottom: 15px;
+ }
+
+.container {
+       width: 80%;         /* page takes up to 80 percent of the browser width*/
+       max-width: 1200px;    /* doesnt let it get to wide*/
+       margin: 0 auto;     /* centers horizontally*/
+       text-align: center; /*  center text and in line elements like the imiages*/
+        padding: 20px; 
+        background-color: #f7cdda; 
+       border-radius: 15px; 
+}
