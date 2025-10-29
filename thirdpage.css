@@ -37,6 +37,8 @@ h2{
   font-family: 'Fredoka One', sans-serif; 
   color: #5e374b; 
   background-color: rgb(173, 98, 139);
+  padding: 10px;
+  
 }
 img {
  width: 200px;
