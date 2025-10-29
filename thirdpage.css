@@ -38,7 +38,7 @@ h2{
   color: #5e374b; 
   background-color: rgb(173, 98, 139);
   padding: 10px;
-  
+
 }
 img {
  width: 200px;
@@ -93,4 +93,10 @@ body {
         padding: 20px; 
         background-color: #f7cdda; 
        border-radius: 15px; 
+}
+li{
+ font-size: 18px;
+ margin-bottom: 10px;
+ color: #a64ca6;
+ line-height: 1.5;
 }
