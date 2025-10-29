@@ -28,11 +28,13 @@
 #nav_menu ul li a:hover {
     color: #ff69b4;
 }
+
 h2{
   color: #a24373;
   font-size: 1.8em;
   margin-bottom: 15px;
  }
+
  p { 
   font-family: 'Fredoka One', sans-serif; 
   color: #5e374b; 
@@ -96,6 +98,7 @@ body {
         background-color: #f7cdda; 
        border-radius: 15px; 
 }
+
 li {
  font-size: 18px;
  margin-bottom: 10px;
@@ -109,6 +112,7 @@ li {
     padding: 15px;
     border: 5px  rgb(5, 1, 1);
 }
+
 .responsive-img {
   max-width: 100%; /* image will never be wider than its container */
   height: auto;    /* keeps aspect ratio */
