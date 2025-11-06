@@ -1,5 +1,5 @@
 #nav_menu {
-    background-color: #f198a5;
+    background-color: #3f396b;
     padding: 10px;
     margin-bottom: 20px;
     border-radius: 10px;
@@ -26,18 +26,18 @@
     font-size: 18px;
 }
 #nav_menu ul li a:hover {
-    color: #ff69b4;
+    color: #95b1c7;
 }
 
 h2{
-  color: #a24373;
+  color: #343967;
   font-size: 1.8em;
   margin-bottom: 15px;
  }
 
  p { 
   font-family: 'Fredoka One', sans-serif; 
-  color: #5e374b; 
+  color: #554586; 
   background-color: rgb(173, 98, 139);
   padding: 10px;
 
@@ -45,7 +45,7 @@ h2{
 img {
  width: 200px;
  height: auto;
- border: 2px solid rgb(115, 66, 90);
+ border: 2px solid rgb(63, 54, 118);
  border-radius: 10px;
  margin: 10px;
 }
@@ -53,13 +53,13 @@ img {
 .container img {
  width:200px;
  height:auto;
- border:2px solid #8e3f67;
+ border:2px solid #443e81;
  border-radius: 15px;
 }
 
 footer {
  margin-top: 20px;
- color: #db95ba;
+ color: #3b3070;
  font-size: 14px;
 }
 
@@ -69,22 +69,22 @@ footer {
 
 body { 
  font-family: 'Fredoka One', sans-serif;
- background-color: #b8889f; /*page back ground*/
- color: #c287a5;   /*default text color*/
+ background-color: #5b57c9; /*page back ground*/
+ color: #312957;   /*default text color*/
  text-align: auto; 
 }
 
  h1 {
-  color: #af73b3;
+  color: #3c3268;
   font-size:2.5em;
   margin-bottom: 10px;
  }
 
 #main-title {
- text-shadow: 2px 2px #f18595;
+ text-shadow: 2px 2px #514f86;
 }
  h2{
-  color: #a24373;
+  color: #3e4465;
   font-size: 1.8em;
   margin-bottom: 15px;
  }
@@ -95,20 +95,20 @@ body {
        margin: 0 auto;     /* centers horizontally*/
        text-align: center; /*  center text and in line elements like the imiages*/
         padding: 20px; 
-        background-color: #f7cdda; 
+        background-color: #7e9dbf; 
        border-radius: 15px; 
 }
 
 li {
  font-size: 18px;
  margin-bottom: 10px;
- color: #a64ca6;
+ color: #4d44ae;
  line-height: 1.5;
 }
 
 .column {
     flex: 1;
-    background-color: #f7cdda;
+    background-color: #8a8dbb;
     padding: 15px;
     border: 5px  rgb(5, 1, 1);
 }
