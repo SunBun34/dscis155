@@ -4,8 +4,8 @@ body {
     color: rgb(8, 53, 8);
     font-family: 'Fredoka One', sans-serif;
     margin: 0px;
-    padding: 120px;
-    padding-top: 5px;   
+    padding: 10px;
+    padding-top: 10px;   
     
         
        
@@ -14,7 +14,7 @@ h1 {
     color: darkseagreen;
     text-align: left;
     margin-left: 50px;
-    padding: 30px; 
+    padding: 10px; 
 }
 p {
     font-size: 20px;
@@ -26,7 +26,7 @@ p {
 li {
     font-size: 18px;
     margin-left: 70px;
-    padding: 8px;
+    padding: 10px;
 }
 img {
     border:8px solid rgb(0, 0, 0);
@@ -41,12 +41,12 @@ aside {
     font-size: 18px;
     background-color: 120px dotted rgb(58, 37, 37);
     margin: 50px;
-    padding: 20px;
+    padding: 10px;
 }
 div {
-    border: 50px dashed rgb(100, 61, 61);
+    border: 10px dashed rgb(100, 61, 61);
     margin: 40px;
-    padding: 30px;
+    padding: 10px;
     background-color: rgb(64, 37, 37);
 }
 .container {
