@@ -21,6 +21,18 @@ h1 {
     background-color: rgb(66, 48, 48);
     border: 20px transparent rgb(92, 60, 60);
 }
+h3 {
+    color: rgb(200, 180, 180);
+    text-align: center;
+    margin-left: 150;
+    padding: 10px; 
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(66, 48, 48);
+    border: 20px solid rgb(92, 60, 60);
+}
 p {
     font-size: 20px;
     text-align: center ;
@@ -101,3 +113,4 @@ div {
 #nav_menu ul li a:hover {
     color: #7f6a4b;
 }
+
