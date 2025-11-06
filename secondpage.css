@@ -3,14 +3,14 @@ body {
     background-blend-mode: multiply;
     background-size: auto;
     color: rgb(8, 53, 8);
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Fredoka One', sans-serif;
     margin: 0px;
     padding: 120px;
     padding-top: 5px;   
     
         
-    );   
-}
+       
+    }
 h1 {
     color: darkseagreen;
     text-align: left;
