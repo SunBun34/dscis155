@@ -17,7 +17,8 @@
 
 ![IMG_6885](https://github.com/user-attachments/assets/d34fa9a6-5e46-4179-b25c-744a62ee1d05)
 
-![Spookyleaves](https://github.com/user-attachments/assets/3afeae91-393c-4ead-a824-b5382330116e)
+
+![spookyleaves2](https://github.com/user-attachments/assets/e06f65c5-cc9e-4091-92c9-4d75b804e5cb)
 
 
 <img width="500" height="667" alt="kittyspook" src="https://github.com/user-attachments/assets/074e0554-80fd-42d2-95ed-b87cfc57f67f" />
