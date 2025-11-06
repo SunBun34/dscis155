@@ -1,7 +1,6 @@
 body {
     background-image: url('https://github.com/user-attachments/assets/3afeae91-393c-4ead-a824-b5382330116e');
-    background-blend-mode: multiply;
-    background-size: auto;
+    background-size: cover;
     color: rgb(8, 53, 8);
     font-family: 'Fredoka One', sans-serif;
     margin: 0px;
