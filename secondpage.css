@@ -1,19 +1,18 @@
 body {
     background-image: url('https://github.com/user-attachments/assets/3afeae91-393c-4ead-a824-b5382330116e9');
-    background-size: cover;
-
+    background-blend-mode: multiply;
+    background-size: auto;
     color: rgb(8, 53, 8);
     font-family: 'Courier New', Courier, monospace;
     margin: 0px;
     padding: 120px;
     padding-top: 5px;   
-    background: linear-gradient(
-        45deg, red 50%, red 0%, blue 50%, blue 0% yellow 50%, green 50%
+    
         
     );   
 }
 h1 {
-    color: Orange;
+    color: darkseagreen;
     text-align: left;
     margin-left: 50px;
     padding: 30px; 
@@ -22,8 +21,8 @@ p {
     font-size: 20px;
     margin-left: 50px;
     padding: 20px 80px 5px 80px;
-    background-color: purple;
-    border: 80px solid Lime;
+    background-color: rgb(66, 48, 48);
+    border: 80px solid rgb(92, 60, 60);
 }   
 li {
     font-size: 18px;
@@ -31,7 +30,7 @@ li {
     padding: 8px;
 }
 img {
-    border:8px solid pink;
+    border:8px solid rgb(0, 0, 0);
     margin-left: 250px;
     margin-top: -20px;
     width: 300px;
@@ -39,17 +38,17 @@ img {
 }
 
 aside {
-    color: white;
+    color: rgb(72, 41, 41);
     font-size: 18px;
-    background-color: 120px dotted lime;
+    background-color: 120px dotted rgb(58, 37, 37);
     margin: 50px;
     padding: 20px;
 }
 div {
-    border: 50px dashed orange;
+    border: 50px dashed rgb(100, 61, 61);
     margin: 40px;
     padding: 30px;
-    background-color: black;
+    background-color: rgb(64, 37, 37);
 }
 .container {
     display: flex;
@@ -58,12 +57,12 @@ div {
 }
 .column {
     flex: 1;
-    background-color: aquamarine;
+    background-color: rgb(88, 64, 64);
     padding: 15px;
     border: 5px dotted rgb(5, 1, 1);
 }
 #nav_menu {
-    background-color: #f198a5;
+    background-color: #523939;
     padding: 10px;
     margin-bottom: 20px;
     border-radius: 10px;
@@ -90,5 +89,5 @@ div {
     font-size: 18px;
 }
 #nav_menu ul li a:hover {
-    color: #ff69b4;
+    color: #7f6a4b;
 }
