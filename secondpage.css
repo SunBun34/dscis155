@@ -115,3 +115,8 @@ div {
     color: #7f6a4b;
 }
 
+.no-dots {
+  list-style-type: none; /* removes the bullets */
+  padding: 0;            /* removes left indent */
+  margin: 0;             /* optional — cleans up spacing */
+}
