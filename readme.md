@@ -17,3 +17,5 @@
 <img width="1024" height="1024" alt="underconstruction" src="https://github.com/user-attachments/assets/c32cd515-9fb6-4eb8-96ff-2072815a0cb7">
 
 ![IMG_6885](https://github.com/user-attachments/assets/d34fa9a6-5e46-4179-b25c-744a62ee1d05)
+![Spookyleaves](https://github.com/user-attachments/assets/e63f5b83-50d5-4db3-a722-a571ae2dd813)
+<img width="500" height="667" alt="kittyspook" src="https://github.com/user-attachments/assets/074e0554-80fd-42d2-95ed-b87cfc57f67f" />
