@@ -11,11 +11,13 @@
 
 <!-- cute spook from chat-->
 
-<img width="1024" height="1024" alt="cutespook" src="https://github.com/user-attachments/assets/4dab2dc4-8cb6-4c04-a45c-653b3c01ba97">
 
 
 <img width="1024" height="1024" alt="underconstruction" src="https://github.com/user-attachments/assets/c32cd515-9fb6-4eb8-96ff-2072815a0cb7">
 
 ![IMG_6885](https://github.com/user-attachments/assets/d34fa9a6-5e46-4179-b25c-744a62ee1d05)
-![Spookyleaves](https://github.com/user-attachments/assets/e63f5b83-50d5-4db3-a722-a571ae2dd813)
+
+![Spookyleaves](https://github.com/user-attachments/assets/3afeae91-393c-4ead-a824-b5382330116e)
+
+
 <img width="500" height="667" alt="kittyspook" src="https://github.com/user-attachments/assets/074e0554-80fd-42d2-95ed-b87cfc57f67f" />
