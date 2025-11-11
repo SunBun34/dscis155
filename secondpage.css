@@ -5,7 +5,7 @@ body {
     margin: 0px;
     padding: 10px;
     padding-top: 10px;   
-    
+    border-radius: 15px;
         
        
     }
@@ -33,14 +33,16 @@ h3 {
     padding: 20px 20px 20px 20px;
     background-color: rgb(66, 48, 48);
     border: 20px solid rgb(92, 60, 60);
+    border-radius: 15px;
 }
 p {
     font-size: 20px;
     text-align: center ;
     margin-left: 50px;
-    padding: 20px 80px 5px 80px;
+    padding: 20px ;
     background-color: rgb(66, 48, 48);
     border: 20px solid rgb(92, 60, 60);
+    border-radius: 15px;
 }   
 li {
     font-size: 20px;
@@ -48,6 +50,8 @@ li {
     padding: 10px;
     text-align: center;
     border: #523939;
+    border-radius: 15px;
+    padding: 10px;
 }
 img {
     border:10px solid rgb(0, 0, 0);
