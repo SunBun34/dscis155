@@ -97,6 +97,10 @@ div {
     padding: 10px;
     margin-bottom: 20px;
     border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 #nav_menu ul {
     list-style-type: none;
