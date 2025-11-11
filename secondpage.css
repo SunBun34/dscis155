@@ -20,6 +20,7 @@ h1 {
     padding: 20px 20px 20px 20px;
     background-color: rgb(66, 48, 48);
     border: 20px transparent rgb(92, 60, 60);
+    border-radius: 15px;
 }
 h3 {
     color: rgb(200, 180, 180);
@@ -53,7 +54,8 @@ img {
     margin-left: 250px;
     margin-top: -20px;
     width: 300px;
-    height: 180px;    
+    height: 180px;   
+    border-radius: 15px; 
 }
 
 aside {
