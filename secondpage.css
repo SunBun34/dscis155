@@ -76,6 +76,7 @@ div {
     gap: 25px;
     margin: 20px;
     text-align: center;
+    border-radius: 15px;
 }
 .column {
     flex: 1;
