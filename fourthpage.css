@@ -1,5 +1,5 @@
 #nav_menu {
-    background-color: #d46798;
+    background-color: #404c40;
     padding: 10px;
     margin-bottom: 20px;
     border-radius: 10px;
@@ -34,3 +34,38 @@ body {
     border-radius: 15px;;
 }
 
+.grid-box {
+   text-align: center;
+   transition: transform 0.3s;
+}
+.grid-box:hover {
+   transform: scale(1.05);
+}
+.grid-container { /* Container for the grid */
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 20px; /* space between boxes */
+      padding: 20px;
+    }
+
+    /* Individual boxes */
+    .grid-box {
+      background-color: #404c40;
+      color: white;
+      padding: 40px;
+      text-align: center;
+      font-size: 18px;
+      border-radius: 10px;
+      transition: transform 0.3s, background-color 0.3s;
+    }
+
+    
+
+    /* Responsive text */
+    @media (max-width: 500px) {
+      .grid-box {
+        font-size: 16px;
+        padding: 30px;
+      }
+
+    
