@@ -44,7 +44,7 @@ body {
 .grid-container { /* Container for the grid */
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-      gap: 20px; /* space between boxes */
+      gap: 20px; 
       padding: 20px;
     }
 
@@ -61,7 +61,7 @@ body {
 
     
 
-    /* Responsive text */
+   
     @media (max-width: 500px) {
       .grid-box {
         font-size: 16px;
