@@ -78,3 +78,10 @@ body {
       text-align: center;
       color:#233625;
     }
+    img {
+ width: 200px;
+ height: auto;
+ border: 2px solid rgb(113, 146, 114);
+ border-radius: 10px;
+ margin: 10px;
+}
