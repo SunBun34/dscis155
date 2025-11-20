@@ -31,15 +31,16 @@ h2 {
     border-radius: 15px;
 }
 h3 {
-    color: rgb(200, 180, 180);
+    color: rgb(128, 192, 159);
     text-align: center;
     padding: 10px; 
     font-size: 20px;
     border: 20px solid rgb(92, 60, 60);
     border-radius: 15px;
+    background-color: rgb(72, 41, 41);
 }
 ul {
-    color: rgb(200, 180, 180);
+    color: rgb(154, 202, 152);
     text-align: center;
     padding: 10px; 
     font-size: 20px;
@@ -140,11 +141,7 @@ div {
   padding: 0;            /* removes left indent */
   margin: 0;             /* optional — cleans up spacing */
 }
-footer {
-    margin-top: 20px;
-    color: #d4a5b1;
-    font-size: 14px;
-    text-align: center;
+
 }
 footer {
     margin-top: 20px;
