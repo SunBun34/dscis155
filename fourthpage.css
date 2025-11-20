@@ -32,6 +32,7 @@
 
 body {
     border-radius: 15px;;
+    font-family: 'Fredoka One', sans-serif;
 }
 
 .grid-box {
@@ -67,4 +68,13 @@ body {
         font-size: 16px;
         padding: 30px;
       }
+    }
+    i {
+      font-size: 50px;
+      color: #233625;
+    }
+    p {
+      border-radius: 10px;
+      text-align: center;
+      color:#233625;
     }
