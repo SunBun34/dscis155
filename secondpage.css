@@ -2,15 +2,16 @@ body {
     background-image: url('https://github.com/user-attachments/assets/e06f65c5-cc9e-4091-92c9-4d75b804e5cb');
     background-size: cover;
     font-family: 'Fredoka One', sans-serif;
-    margin: 0px;
+
     padding: 10px;
     padding-top: 10px;   
     border-radius: 15px;
-    
         
        
     }
-
+a {
+    text-align: center ;
+}
 h1 {
     color: darkseagreen;
     text-align: center;
@@ -34,7 +35,6 @@ h3 {
     text-align: center;
     padding: 10px; 
     font-size: 20px;
-    background-color: rgb(66, 48, 48);
     border: 20px solid rgb(92, 60, 60);
     border-radius: 15px;
 }
@@ -51,7 +51,7 @@ ul {
 p {
     font-size: 20px;
     text-align: center ;
-    margin-left: 50px;
+
     padding: 20px ;
     background-color: rgb(66, 48, 48);
     border: 20px solid rgb(92, 60, 60);
@@ -59,20 +59,18 @@ p {
 }   
 li {
     font-size: 20px;
-    margin-left: 20px;
     padding: 10px;
     text-align: center;
     border: #523939;
     border-radius: 15px;
-    padding: 10px;
+    padding: 15px;
 }
 img {
     border:10px solid rgb(0, 0, 0);
-    margin-left: 250px;
-    margin-top: -20px;
+    text-align: center;
     width: 300px;
     height: 180px;   
-    border-radius: 15px; 
+    border-radius: 10px; 
 }
 
 aside {
@@ -85,9 +83,9 @@ aside {
 }
 div {
     border: 10px dashed rgb(100, 61, 61);
-    margin: 40px;
     padding: 10px;
     background-color: rgb(64, 37, 37);
+    text-align: center;
 }
 .container {
     display: flex;
@@ -145,6 +143,12 @@ div {
 footer {
     margin-top: 20px;
     color: #d4a5b1;
+    font-size: 14px;
+    text-align: center;
+}
+footer {
+    margin-top: 20px;
+    color: #000000;
     font-size: 14px;
     text-align: center;
 }
