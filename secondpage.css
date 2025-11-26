@@ -83,6 +83,7 @@ img {
     width: 80%;
     max-width: 1200px;
     background-color: rgb(66, 48, 48);
+    margin-bottom: 20px;
 }
 
 /* Navigation menu */
@@ -91,6 +92,7 @@ img {
     padding: 10px;
     margin-bottom: 20px;
     border-radius: 10px;
+
 }
 
 #nav_menu ul {
@@ -102,10 +104,12 @@ img {
     margin: 0;
     border-top: 2px solid black;
     border-bottom: 2px solid black;
+    text-align: center;
 }
 
 #nav_menu ul li {
     display: inline;
+    padding: 2px 10px;
 }
 
 #nav_menu ul li a {
