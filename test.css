@@ -23,7 +23,7 @@ body {
  }
 
 .container {
-       width: 80%;         /* page takes up to 80 percent of the browser width*/
+       width: 80%;        
        max-width: 1200px;    /* doesnt let it get to wide*/
        margin: 0 auto;     /* centers horizontally*/
        text-align: center; /*  center text and in line elements like the imiages*/
