@@ -1,3 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Travels</title>
+  <link rel="stylesheet" href="travel-style.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap">
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav id="nav_menu">
+    <ul>
+      <li><a href="thirdpage.html">About Me</a></li>
+      <li><a href="index.html">My Pets</a></li>
+      <li><a href="secondpage.html">My Travels</a></li>
+      <li><a href="fouthpage.html">Educational Tinkering</a></li>
+    </ul>
+  </nav>
+
+  <!-- Main Title -->
+  <h1 id="main-title">Welcome to My Travel Adventures</h1>
+
+  <div class="container">
+
+    <p>
+      I really enjoy camping and swimming as a means of travel and adventure.
+    </p>
+
+    <h2>These Are Some of the Places I've Been To</h2>
+
+    <ul class="no-dots">
+      <li>Shenandoah Mountains</li>
+      <li>Kings Canyon / Sequoia</li>
+      <li>All over the Sierra Mountains</li>
+      <li>Hoh Rain Forest</li>
+      <li>Lake Tahoe</li>
+      <li>Palm Springs</li>
+      <li>Downieville</li>
+    </ul>
+
+    <img 
+      src="https://github.com/user-attachments/assets/19144015-95f9-4add-a5ec-0bbc" 
+      alt="castle" 
+      class="responsive-img"
+    >
+
+  </div>
+
+  <footer>
+    Donna Stark Travels Webpage &copy; 2025
+  </footer>
+
+</body>
+</html>
+
+____________________________________________________________________
 body {
     background-color: antiquewhite;
     font-family: 'Fredoka One', sans-serif;
@@ -91,8 +150,8 @@ img {
     background-color: rgb(66, 48, 48);
     padding: 10px;
     margin-bottom: 20px;
-    border-radius: 15px;
-    
+    border-radius: 10px;
+    width: 100%;
 
 }
 
@@ -101,12 +160,11 @@ img {
     display: flex;
     justify-content: center;
     gap: 20px;
-    padding: 1em;
+    padding: 1em 0;
     margin: 0;
-    border-top: solid 2px black;
-    border-bottom: solid 2px black;
-    text-align: center; 
-    border-radius: 0%;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    text-align: center;
 }
 
 #nav_menu ul li {
@@ -131,7 +189,4 @@ footer {
     font-size: 14px;
     color: black;
     text-align: center;
-}
-#main-title {
- text-shadow: 2px 2px #514f86;
 }
